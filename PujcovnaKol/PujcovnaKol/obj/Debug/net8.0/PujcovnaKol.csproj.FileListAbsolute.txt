@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1As1\PujcovnaKol\PujcovnaKol\bin\Debug\net8.0\PujcovnaKol.exe
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1As1\PujcovnaKol\PujcovnaKol\bin\Debug\net8.0\PujcovnaKol.deps.json
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1As1\PujcovnaKol\PujcovnaKol\bin\Debug\net8.0\PujcovnaKol.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1As1\PujcovnaKol\PujcovnaKol\bin\Debug\net8.0\PujcovnaKol.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1As1\PujcovnaKol\PujcovnaKol\bin\Debug\net8.0\PujcovnaKol.pdb
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1As1\PujcovnaKol\PujcovnaKol\obj\Debug\net8.0\PujcovnaKol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1As1\PujcovnaKol\PujcovnaKol\obj\Debug\net8.0\PujcovnaKol.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1As1\PujcovnaKol\PujcovnaKol\obj\Debug\net8.0\PujcovnaKol.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1As1\PujcovnaKol\PujcovnaKol\obj\Debug\net8.0\PujcovnaKol.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1As1\PujcovnaKol\PujcovnaKol\obj\Debug\net8.0\PujcovnaKol.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1As1\PujcovnaKol\PujcovnaKol\obj\Debug\net8.0\refint\PujcovnaKol.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1As1\PujcovnaKol\PujcovnaKol\obj\Debug\net8.0\PujcovnaKol.pdb
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1As1\PujcovnaKol\PujcovnaKol\obj\Debug\net8.0\PujcovnaKol.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1As1\PujcovnaKol\PujcovnaKol\obj\Debug\net8.0\ref\PujcovnaKol.dll
