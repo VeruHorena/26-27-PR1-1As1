@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1As1\hadKonzole\hadKonzole\bin\Debug\net8.0\hadKonzole.exe
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1As1\hadKonzole\hadKonzole\bin\Debug\net8.0\hadKonzole.deps.json
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1As1\hadKonzole\hadKonzole\bin\Debug\net8.0\hadKonzole.runtimeconfig.json
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1As1\hadKonzole\hadKonzole\bin\Debug\net8.0\hadKonzole.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1As1\hadKonzole\hadKonzole\bin\Debug\net8.0\hadKonzole.pdb
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1As1\hadKonzole\hadKonzole\obj\Debug\net8.0\hadKonzole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1As1\hadKonzole\hadKonzole\obj\Debug\net8.0\hadKonzole.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1As1\hadKonzole\hadKonzole\obj\Debug\net8.0\hadKonzole.AssemblyInfo.cs
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1As1\hadKonzole\hadKonzole\obj\Debug\net8.0\hadKonzole.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1As1\hadKonzole\hadKonzole\obj\Debug\net8.0\hadKonzole.sourcelink.json
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1As1\hadKonzole\hadKonzole\obj\Debug\net8.0\hadKonzole.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1As1\hadKonzole\hadKonzole\obj\Debug\net8.0\refint\hadKonzole.dll
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1As1\hadKonzole\hadKonzole\obj\Debug\net8.0\hadKonzole.pdb
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1As1\hadKonzole\hadKonzole\obj\Debug\net8.0\hadKonzole.genruntimeconfig.cache
+C:\Users\admin\Desktop\delta materialy\_26_27\PR1\26-27-PR1-1As1\hadKonzole\hadKonzole\obj\Debug\net8.0\ref\hadKonzole.dll
