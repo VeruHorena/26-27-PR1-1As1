@@ -4,6 +4,9 @@
     {
         static void Main(string[] args)
         {
+            //pocetkroku
+            int pocet = 0;
+
             //souradnice had
             int x = 10;
             int y = 5;
@@ -20,30 +23,35 @@
                 Console.Write("O");
                 Console.SetCursorPosition(prekazkaX, prekazkaY);
                 Console.Write("X");
-                Console.WriteLine();
-                Console.WriteLine("---------------------------------------");
-
+                
+                Console.SetCursorPosition(0, 21);
+                Console.Write("---------------------------------------");
                 ConsoleKeyInfo stisknute = Console.ReadKey();
-                if (stisknute.Key == ConsoleKey.RightArrow)
+                if (stisknute.Key == ConsoleKey.RightArrow && x < 30)
                 {
                     x = x + 1;
+                    pocet++; //pocet = pocet+1;
                 }
-                if (stisknute.Key == ConsoleKey.LeftArrow)
+                if (stisknute.Key == ConsoleKey.LeftArrow && x > 0)
                 {
                     x = x - 1;
+                    pocet++;
                 }
-                if (stisknute.Key == ConsoleKey.UpArrow)
+                if (stisknute.Key == ConsoleKey.UpArrow && y > 0)
                 {
                     y = y - 1;
+                    pocet++;
                 }
-                if (stisknute.Key == ConsoleKey.DownArrow)
+                if (stisknute.Key == ConsoleKey.DownArrow && y < 20)
                 {
                     y = y + 1;
+                    pocet++;
                 }
                 if(prekazkaX==x && prekazkaY == y)
                 {
                     Console.Clear ();
                     Console.WriteLine("Prohral jsi, narazil jsi do prekazky.");
+                    Console.WriteLine("Pocet kroku: " + pocet);
                     break;
                 }
             }

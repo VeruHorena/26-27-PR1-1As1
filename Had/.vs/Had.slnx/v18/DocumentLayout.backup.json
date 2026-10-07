@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR1\\26-27-PR1-1As1\\Had\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{282BA20B-27FD-4154-B3EA-05857BD06E75}|Had.csproj|c:\\users\\admin\\desktop\\delta materialy\\_26_27\\pr1\\26-27-pr1-1as1\\had\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{282BA20B-27FD-4154-B3EA-05857BD06E75}|Had.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{535AD6EA-FCC8-20C8-3E6B-66FD8C0B9AFF}|Had.csproj|c:\\users\\admin\\desktop\\delta materialy\\_26_27\\pr1\\26-27-pr1-1as1\\had\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535AD6EA-FCC8-20C8-3E6B-66FD8C0B9AFF}|Had.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,9 +22,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR1\\26-27-PR1-1As1\\Had\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR1\\26-27-PR1-1As1\\Had\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAIwCoAAAAqAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\delta materialy\\_26_27\\PR1\\26-27-PR1-1As1\\Had\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-06T09:48:41.844Z",
               "EditorCaption": ""
