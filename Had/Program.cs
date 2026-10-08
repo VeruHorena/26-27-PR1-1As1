@@ -6,6 +6,8 @@
         {
             //pocetkroku
             int pocet = 0;
+            //pocet snezeneho jidla
+            int jidlo = 0;
 
             //souradnice had
             int x = 10;
@@ -30,7 +32,9 @@
                 Console.SetCursorPosition(jidloX, jidloY);
                 Console.Write("J");
                 Console.SetCursorPosition(0, 21);
-                Console.Write("---------------------------------------");
+                Console.WriteLine("---------------------------------------");
+                Console.WriteLine("Aktualni skore: " + jidlo);
+
                 ConsoleKeyInfo stisknute = Console.ReadKey();
                 if (stisknute.Key == ConsoleKey.RightArrow && x < 30)
                 {
@@ -56,13 +60,14 @@
                 {
                     Console.Clear ();
                     Console.WriteLine("Prohral jsi, narazil jsi do prekazky.");
-                    Console.WriteLine("Pocet kroku: " + pocet);
+                    Console.WriteLine("Pocet kroku: " + pocet + " Pocet snedeneho jidla: " + jidlo);
                     break;
                 }
                 if(jidloX==x && jidloY == y)
                 {
                     jidloX = generator.Next(1, 31);
                     jidloY = generator.Next(1, 21);
+                    jidlo = jidlo + 1;
                 }
             }
         }
