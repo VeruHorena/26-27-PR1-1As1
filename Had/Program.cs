@@ -14,6 +14,10 @@
             //souradnice prekazka
             int prekazkaX = 20;
             int prekazkaY = 5;
+
+            Random generator = new Random();
+            int jidloX = generator.Next(1, 31);
+            int jidloY = generator.Next(1, 21);
             while (true)
             {
                 Console.Clear();
@@ -23,7 +27,8 @@
                 Console.Write("O");
                 Console.SetCursorPosition(prekazkaX, prekazkaY);
                 Console.Write("X");
-                
+                Console.SetCursorPosition(jidloX, jidloY);
+                Console.Write("J");
                 Console.SetCursorPosition(0, 21);
                 Console.Write("---------------------------------------");
                 ConsoleKeyInfo stisknute = Console.ReadKey();
@@ -53,6 +58,11 @@
                     Console.WriteLine("Prohral jsi, narazil jsi do prekazky.");
                     Console.WriteLine("Pocet kroku: " + pocet);
                     break;
+                }
+                if(jidloX==x && jidloY == y)
+                {
+                    jidloX = generator.Next(1, 31);
+                    jidloY = generator.Next(1, 21);
                 }
             }
         }
