@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TvorbaMenu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c3fc87f8bf916a38e9b226bfaf3be1b86d62cdc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+871ba93c41a90dc47ec0190da365e70a70d4c447")]
 [assembly: System.Reflection.AssemblyProductAttribute("TvorbaMenu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TvorbaMenu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
